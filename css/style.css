@@ -328,6 +328,7 @@ a:active
     .main-btn
     {
         width: 100%;
+         margin-left: -1%;
     }
     .secondary-btn{
         /* width: 30%; */
