@@ -157,6 +157,9 @@ nav.open ~ .overlay {
     width: 10%;
     margin: 0.8%;
 }
+.content-inside-images:hover{
+    margin:0 1%;
+}
 
 .sidebar-images{
     height: 10%;

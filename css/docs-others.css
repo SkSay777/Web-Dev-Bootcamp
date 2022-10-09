@@ -286,6 +286,11 @@ cursor: pointer;
   visibility: hidden;
 }
 
+.content-inside-images:hover{
+  height: 9%;
+  width: 9%;
+}
+
 @media only screen and (max-width: 660px) {
   .bottom-content{
     visibility: visible;
